@@ -36,9 +36,9 @@
 | Projet                             | Description rapide                              | Technologies |
 |-----------------------------------|-------------------------------------------------|--------------|
 | Messagerie instantanée             | Site web avec gestion utilisateurs et chat temps réel | Laravel      |
-| Jeu vidéo en équipe                | Projet collaboratif à 3 sur conception et dev | C++, Unity   |
-| Détection par réseaux de neurones  | Modèle de machine learning pour reconnaissance de motifs | Python, TensorFlow |
-| Site météo                         | Affichage des données météo via API           | JavaScript, HTML/CSS |
+| Jeu vidéo en équipe                | Projet collaboratif à 3 sur conception et dev | Java, JUnit, Log4J |
+| Détection par réseaux de neurones  | Modèle de machine learning pour reconnaissance de motifs | Python, PyTorch |
+| Site météo                         | Affichage des données météo via API           | JavaScript, HTML/CSS, PHP |
 
 ---
 
