@@ -1,5 +1,3 @@
-# Github de Gauthier Defrance
-
 Étudiant en troisième année de licence en informatique (le 30/09/2025), passionné par le développement web et les technologies logicielles. Je suis à la recherche de stages pour mettre en pratique mes compétences et contribuer à des projets innovants.
 ---
 
