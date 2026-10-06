@@ -78,11 +78,11 @@ For example, i had to learn a bit of Blender in order to make Assets for somes p
 
   # Stats of my profile
   
-  <img src="https://github-readme-stats.vercel.app/api?username=GauthierDefrance&show_icons=true&theme=default&hide_border=true&border_radius=10" width="100%" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GauthierDefrance&show_icons=true&theme=default&hide_border=true&border_radius=10" width="80%" alt="Stats GitHub" />
   </br>
-  <img src="https://streak-stats.demolab.com/?user=GauthierDefrance&theme=default&hide_border=true&border_radius=10" width="100%" alt="Streak GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=GauthierDefrance&theme=default&hide_border=true&border_radius=10" width="80%" alt="Streak GitHub" />
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauthierDefrance&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8" width="100%" alt="Langages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauthierDefrance&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8" width="80%" alt="Langages" />
 </div>
 
 
