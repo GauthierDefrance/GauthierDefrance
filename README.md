@@ -94,7 +94,11 @@ For example, I had to learn a bit of Blender in order to make assets for some pr
 
 <!-- Snake begin -->
 
-<img src="https://raw.githubusercontent.com/GauthierDefrance/GauthierDefrance/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GauthierDefrance/GauthierDefrance/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GauthierDefrance/GauthierDefrance/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/GauthierDefrance/GauthierDefrance/output/github-snake.svg" width="100%" />
+</picture>
 
 <!-- Snake end -->
 
