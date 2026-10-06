@@ -13,11 +13,17 @@
   
 </br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Developer;Student;Always+Learning+New+Things;Gamer;AI+enthusiast;Ambitious)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=36BCF7&center=true&vCenter=true&width=700&random=true&lines=Developer;Student;Always+Learning+New+Things;Gamer;AI+enthusiast;Ambitious;Creeper%3F+Aw+man;Also+try+Minecraft%21;Also+try+Terraria%21;Don%27t+feed+chocolate+to+parrots%21;Does+anyone+read+these%3F;It+works+on+my+machine%21;Powered+by+coffee;Compiling...+please+wait;git+push+--force+%28what+could+go+wrong%3F%29;Ctrl%2BC+Ctrl%2BV+engineer;99+little+bugs+in+the+code;Godot+is+awesome%21;Snake+supremacy;Red+is+faster)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=GauthierDefrance&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GauthierDefrance&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/GauthierDefrance?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGauthierDefrance&color=blue" alt="Following" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGauthierDefrance&color=green" alt="Repos publics" />
+  <img src="https://img.shields.io/badge/Depuis-2023-orange?style=for-the-badge&logo=github" alt="Membre depuis 2023" />
+</p>
 
-</br>
+
 </div>
 
 <!-- Subhead end -->
@@ -72,11 +78,11 @@ For example, i had to learn a bit of Blender in order to make Assets for somes p
 
   # Stats of my profile
   
-  <img src="https://github-readme-stats.vercel.app/api?username=GauthierDefrance&show_icons=true&theme=default&hide_border=true&border_radius=10" width="49%" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GauthierDefrance&show_icons=true&theme=default&hide_border=true&border_radius=10" width="100%" alt="Stats GitHub" />
   </br>
-  <img src="https://streak-stats.demolab.com/?user=GauthierDefrance&theme=default&hide_border=true&border_radius=10" width="49%" alt="Streak GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=GauthierDefrance&theme=default&hide_border=true&border_radius=10" width="100%" alt="Streak GitHub" />
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauthierDefrance&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8" width="49%" alt="Langages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauthierDefrance&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8" width="100%" alt="Langages" />
 </div>
 
 
