@@ -9,7 +9,7 @@
 <!-- Subhead Begin -->
 
 <div align=center>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,postgresql,git,docker" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,postgresql,git,docker,godot" />
   
 </br>
 
@@ -29,17 +29,42 @@
 
   # Presentation
 
-  <p>
-    Hi, i am Gauthier DEFRANCE !
-  </p>
-  
 </div>
+
+Hi, I'm **Gauthier DEFRANCE** !
+
+I am currently a student passionate about programming (heart on you Godot)
+Amateur developer who loves building things, from small tools to bigger projects  
+Always learning: I adapt to many different language, i often need to learn new tech in new projects.
+For example, i had to learn a bit of Blender in order to make Assets for somes project i was working on with somes friends !
+
+<br clear="right" />
 
 <!-- Section Presentation END -->
 
 
+<!-- Section Minecraft START -->
 
+<div align="center">
 
+  ## ⛏️ Player Card
+  
+> 🏆 **Achievement :** *Pushed to main without breaking anything*
+
+  <img src="https://mc-heads.net/head/KillTheKiller/80" alt="Head" />
+
+  **KillTheKiller**  
+  *Class: Developer*
+
+  ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ &nbsp; 🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗
+
+  ![XP](https://img.shields.io/badge/XP-Level_%E2%88%9E_(still_leveling)-7FFF00?style=for-the-badge&logo=minecraft&logoColor=white)
+
+</div>
+
+<!-- Section Minecraft END -->
+
+<!-- Section Presentation END -->
 
 
 
@@ -54,6 +79,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauthierDefrance&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8" width="49%" alt="Langages" />
 </div>
 
+
+
+<!-- Snake begin -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GauthierDefrance/GauthierDefrance/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GauthierDefrance/GauthierDefrance/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/GauthierDefrance/GauthierDefrance/output/github-snake.svg" width="100%" />
+</picture>
+
+<!-- Snake end -->
 
 
 
