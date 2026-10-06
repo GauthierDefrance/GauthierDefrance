@@ -1,66 +1,64 @@
-Étudiant en troisième année de licence en informatique (le 30/09/2025), passionné par le développement web et les technologies logicielles. Je suis à la recherche de stages pour mettre en pratique mes compétences et contribuer à des projets innovants.
----
+<!--Header Begin -->
 
-## 💻 Compétences techniques
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Gauthier%20DEFRANCE&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Student%20%C2%B7%20Amateur%20Developer&descAlignY=55" width="100%" />
 
-### Langages de programmation
+<!-- Header End -->
 
-| Langage      | Niveau          |
-|-------------|----------------|
-| Java        | Bon niveau      |
-| Python      | Bon niveau      |
-| PHP         | Bon niveau      |
-| C / C++     | Niveau correct  |
-| JavaScript  | Intermédiaire   |
 
-### Frameworks et bibliothèques
 
-| Framework   | Niveau          |
-|------------|----------------|
-| Laravel    | Intermédiaire   |
-| Django     | Débutant        |
+<!-- Subhead Begin -->
 
-### Bases de données
+<div align=center>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,postgresql,git,docker" />
+  
+</br>
 
-| Base        | Niveau          |
-|------------|----------------|
-| PostgreSQL | Intermédiaire   |
-| MySQL      | Intermédiaire   |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Developer;Student;Always+Learning+New+Things;Gamer;AI+enthusiast;Ambitious)](https://git.io/typing-svg)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=GauthierDefrance&color=blue)
 
-## 🚀 Projets réalisés
+</br>
+</div>
 
-| Projet                             | Description rapide                              | Technologies |
-|-----------------------------------|-------------------------------------------------|--------------|
-| Messagerie instantanée             | Site web avec gestion utilisateurs et chat temps réel | Laravel      |
-| Jeu vidéo en équipe                | Projet collaboratif à 3 sur conception et dev | Java, JUnit, Log4J |
-| Détection par réseaux de neurones  | Modèle de machine learning pour reconnaissance de motifs | Python, PyTorch |
-| Site météo                         | Affichage des données météo via API           | JavaScript, HTML/CSS, PHP |
+<!-- Subhead end -->
 
----
 
-## 🛠 Outils & compétences complémentaires
 
-- Git & GitHub  
-- HTML / CSS  
-- Wireshark
-- IntelliJ IDE
-- Vs Code
-- Eclipse
+<!-- Section Presentation START -->
+<div align="center">
 
----
+  # Presentation
 
-## 📫 Contact
+  <p>
+    Hi, i am Gauthier DEFRANCE !
+  </p>
+  
+</div>
 
-- LinkedIn : [Mon Profil](https://www.linkedin.com/in/gauthier-defrance/)  
+<!-- Section Presentation END -->
 
----
 
-## ⚡ Centres d’intérêt
 
-- Intelligence artificielle & machine learning  
-- Développement web et mobile  
-- Veille technologique & nouvelles tech
-- Micro-électronique & Microcontrôleur
 
+
+
+
+<div align="center">
+
+  # Stats of my profile
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=GauthierDefrance&show_icons=true&theme=default&hide_border=true&border_radius=10" width="49%" alt="Stats GitHub" />
+  </br>
+  <img src="https://streak-stats.demolab.com/?user=GauthierDefrance&theme=default&hide_border=true&border_radius=10" width="49%" alt="Streak GitHub" />
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauthierDefrance&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8" width="49%" alt="Langages" />
+</div>
+
+
+
+
+<!-- Footer begin -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+
+<!-- Footer end -->
