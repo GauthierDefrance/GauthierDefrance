@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,postgresql,git,docker,godot&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,postgresql,html,css,git,blender,laravel,docker,godot&theme=dark" alt="Skills" />
 
 <br />
 
