@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/github/followers/GauthierDefrance?style=for-the-badge&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGauthierDefrance&color=blue" alt="Following" />
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGauthierDefrance&color=green" alt="Repos publics" />
-  <img src="https://img.shields.io/badge/Depuis-2023-orange?style=for-the-badge&logo=github" alt="Membre depuis 2023" />
+  <img src="https://img.shields.io/badge/Since-2023-orange?style=for-the-badge&logo=github" alt="Member since 2023" />
 </p>
 
 </div>
